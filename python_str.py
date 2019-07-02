@@ -2,7 +2,12 @@
 # -*- coding=utf-8 -*-
 # write by Darin
 
-print('ldnning')
+A = "fsfwefsdfsdfsdfsdfsdfsdfsdfsdfsdfsdfsdsfdfadadfsdfasdf\
+sdasdfadfadf"
+
+print(A)
+
+
 
 if __name__ == '__main__':
     pass
