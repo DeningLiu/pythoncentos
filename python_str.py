@@ -7,6 +7,11 @@ sdasdfadfadf"
 
 print(A)
 
+myjob = 'hacker'
+
+for X in myjob:
+    print(X)
+
 
 
 
