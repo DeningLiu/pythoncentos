@@ -8,7 +8,7 @@ myjob = 'hacker'
 for X in myjob:
     print(X)
 
-#######################################################################################
+print('\n')
 
 department1 = 'Security'
 department2 = 'Python'
@@ -29,7 +29,7 @@ print(line1)
 print(line2)
 print('='*length)
 
-##############################################################################################
+print('\n')
 
 department1 = 'Security'
 department2 = 'Python'
