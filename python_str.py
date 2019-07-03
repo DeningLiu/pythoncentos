@@ -2,20 +2,18 @@
 # -*- coding=utf-8 -*-
 # write by Darin
 
-A = "fsfwefsdfsdfsdfsdfsdfsdfsdfsdfsdfsdfsdsfdfadadfsdfasdf\
-sdasdfadfadf"
-
-print(A)
 
 myjob = 'hacker'
 
 for X in myjob:
     print(X)
 
+#######################################################################################
+
 department1 = 'Security'
 department2 = 'Python'
-depart1 = 'cqbomb'
-depart2 = 'qinke'
+depart1 = 'Darin'
+depart2 = 'liudening'
 COURSE_FEES_SEC = 456789.123456
 COURSE_FEES_PYTHON = 1234.3456
 
@@ -31,19 +29,19 @@ print(line1)
 print(line2)
 print('='*length)
 
-##############################################################################################3
+##############################################################################################
 
 department1 = 'Security'
 department2 = 'Python'
-depart1 = 'cqbomb'
-depart2 = 'qinke'
+depart1 = 'Darin'
+depart2 = 'liudening'
 COURSE_FEES_SEC = 456789.123456
 COURSE_FEES_PYTHON = 1234.3456
 
 
-line1 = 'Department1 name:{0:10} Manager:{1:10} COURSE FEES:{2:<10.2f} The End!'.format('Security','cqbomb',\
+line1 = 'Department1 name:{0:10} Manager:{1:10} COURSE FEES:{2:<10.2f} The End!'.format('Security','Darin',\
                                                                                        456789.123456)
-line2 = 'Department2 name:{0:10} Manager:{1:10} COURSE FEES:{2:<10.2f} The End!'.format('Python','qinke',1234.3456)
+line2 = 'Department2 name:{0:10} Manager:{1:10} COURSE FEES:{2:<10.2f} The End!'.format('Python','liudeing',1234.3456)
 
 #line1 =
 #line2 =
